@@ -19,7 +19,7 @@
     "purpose": "any maskable"
   }
   , {
-    "src": "images/logo-csGame-512.png",
+    "src": "images/logo-ccs-512.png",
     "sizes": "512x512",
     "type": "image/png",
     "purpose": "any maskable"
@@ -31,7 +31,7 @@
   "orientation": "portrait",
   "scope": "/",
   "lang": "en-US",
-  "description": "A casual game.",
+  "description": "A Responsive PWA.",
   "related_applications": [],
   "prefer_related_applications": false,
   "categories": ["games"]
