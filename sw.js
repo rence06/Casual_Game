@@ -2,10 +2,10 @@ var cacheName = 'casual-game-pwa';
 var filesToCache = [
   '/',
   '/index.html',
-  '/about.html',
-  '/snake.html',
   '/css/style.css',
-  '/css/snake.css'
+  '/js/main.js',
+  '/js/script.js',
+
 ];
 
 /* Start the service worker and cache all of the app's content */

@@ -19,12 +19,12 @@
      "purpose": "any maskable"
    }
    , {
-     "src": "images/logo-csGame-512.png",
+     "src": "images/logo-csGame-512 (1).png",
      "sizes": "512x512",
      "type": "images/png",
      "purpose": "any maskable"
    }],
-   "start_url": "/",
+   "start_url": "/index.html",
    "display": "standalone",
    "background_color": "#ffffff",
    "theme_color": "#4db6ac",
