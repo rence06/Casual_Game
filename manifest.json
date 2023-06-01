@@ -2,26 +2,26 @@
    "name": "Casual Game: T.S.",
    "short_name": "T.S. App",
     "icons": [{
-   "src": "images/logo-csGame-60.jpg",
+   "src": "images/logo-csGame-60.png",
      "sizes": "60x60",
-     "type": "images/jpg",
+     "type": "images/png",
      "purpose": "any maskable"
      
    }, {
-     "src": "images/logo-csGame-90.jpg",
+     "src": "images/logo-csGame-90.png",
      "sizes": "90x90",
-     "type": "images/jpg",
+     "type": "images/png",
      "purpose": "any maskable"
    }, {
-     "src": "images/logo-csGame-100.jpg",
+     "src": "images/logo-csGame-100.png",
      "sizes": "100x100",
-     "type": "images/jpg",
+     "type": "images/png",
      "purpose": "any maskable"
    }
    , {
-     "src": "images/logo-csGame-512.jpg",
+     "src": "images/logo-csGame-512.png",
      "sizes": "512x512",
-     "type": "images/jpg",
+     "type": "images/png",
      "purpose": "any maskable"
    }],
    "start_url": "/",
