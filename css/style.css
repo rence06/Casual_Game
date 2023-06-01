@@ -95,6 +95,21 @@ body {
   height: 100%;
 }
 
+#abt-me .img-junalyn
+{
+  margin-top: 20px;
+  width: 100%;
+  height: 100%;
+}
+
+#abt-me .img-ryan
+{
+  margin-top: 20px;
+  width: 100%;
+  height: 95%;
+}
+
+
 #abt-me 
 {
   margin-bottom: 4rem;
