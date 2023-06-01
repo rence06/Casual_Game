@@ -19,9 +19,9 @@
      "purpose": "any maskable"
    }
    , {
-     "src": "images/logo-csGame-512.png",
+     "src": "images/512.jpg",
      "sizes": "512x512",
-     "type": "images/png",
+     "type": "images/jpg",
      "purpose": "any maskable"
    }],
    "start_url": "/",
